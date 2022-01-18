@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
 }
 
+.App input{
+  font-size: 20px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

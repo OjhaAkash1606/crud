@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "email": "rishi@test.com",
+      "first_name": "Rishikesh",
+      "last_name": "shukla",
+      "number": "1",
+      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "id": 1
+    },
+    {
+      "email": "sunilgiri@test.com",
+      "first_name": "Sunil",
+      "last_name": "Giri",
+      "number": "2",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "id": 4
+    },
+    {
+      "email": "nilesh@test.com",
+      "first_name": "Nilesh",
+      "last_name": "Kumar",
+      "number": "3",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg",
+      "id": 5
+    },
+    {
+      "email": "pankaj@test.com",
+      "first_name": "Pankaj",
+      "last_name": "Giri",
+      "number": "4",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg",
+      "id": 6
+    },
+    {
+      "email": "anil@test.com",
+      "first_name": "Anil ",
+      "last_name": "salvi",
+      "number": "5",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg",
+      "id": 7
+    },
+    {
+      "email": "aksh@test.com",
+      "first_name": "Akash",
+      "last_name": "Ojha",
+      "number": "9",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "id": 8
+    }
+  ]
+}
